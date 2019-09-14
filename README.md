@@ -7,8 +7,9 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 	<link href="https://fonts.googleapis.com/css?family=Indie+Flower&display=swap" rel="stylesheet"> 
 	<link rel="stylesheet" type="text/css" href="./index.css">
-	<title>Inspire</title>
 </head>
+	<style>
+	</style>
 <body>
 	<nav class="navigation">
 		<div class="logo">
@@ -29,6 +30,5 @@
 			<div class="line3"></div>
 		</div>
 	</nav>
-<script src="app.js" type="text/javascript"></script>
 </body>
 </html>
